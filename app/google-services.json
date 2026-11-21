@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "434250726873",
+    "project_id": "controlgastosfirebase-bc650",
+    "storage_bucket": "controlgastosfirebase-bc650.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:434250726873:android:80b3b0f972d7cb20b26dc8",
+        "android_client_info": {
+          "package_name": "com.example.controlgastos"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDbPjxPztodFmvQWxj97uGkNKwTJ7UhWmE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
