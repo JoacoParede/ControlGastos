@@ -4,11 +4,11 @@ plugins {
 }
 
 android {
-    namespace 'com.ejemplo.controlgastos'
-    compileSdk 35
+    namespace 'com.example.controlgastos'
+    compileSdk 36
 
     defaultConfig {
-        applicationId "com.ejemplo.controlgastos"
+        applicationId "com.example.controlgastos"
         minSdk 24
         targetSdk 35
         versionCode 1
