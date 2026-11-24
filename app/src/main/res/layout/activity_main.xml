@@ -76,6 +76,15 @@
             android:layout_marginStart="4dp" />
     </LinearLayout>
 
+    <TextView
+        android:id="@+id/tvIndicacionEliminar"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Para eliminar un gasto, mantenlo presionado en la lista."
+        android:textColor="?android:attr/textColorSecondary"
+        android:textSize="14sp"
+        android:layout_marginBottom="4dp" />
+
     <ListView
         android:id="@+id/lvGastos"
         android:layout_width="match_parent"
